@@ -167,3 +167,4 @@ C:\Users\Habib\source\repos\E-Commerce_Backend\E-Commerce Backend\obj\Debug\net8
 C:\Users\Habib\source\repos\E-Commerce_Backend\E-Commerce Backend\obj\Debug\net8.0\E-Commerce_Backend.pdb
 C:\Users\Habib\source\repos\E-Commerce_Backend\E-Commerce Backend\obj\Debug\net8.0\E-Commerce_Backend.genruntimeconfig.cache
 C:\Users\Habib\source\repos\E-Commerce_Backend\E-Commerce Backend\obj\Debug\net8.0\ref\E-Commerce_Backend.dll
+C:\Users\Habib\source\repos\E-Commerce_Backend\E-Commerce Backend\obj\Debug\net8.0\E-Commerce_Backend.sourcelink.json
